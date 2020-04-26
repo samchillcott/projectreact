@@ -5,7 +5,7 @@ function App(){
   const [users, setUsers] = useState([
     { name: "Ed", message: "Hello there"},
     { name: "Voy", message: "I love Marina"},
-    { name: "Dhanish", message: "Build Up Devs"}
+    { name: "Dhanish", message: "BuildUp Devs"}
   ]);
   
 

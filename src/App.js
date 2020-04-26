@@ -4,7 +4,7 @@ import Tweet from './tweet';
 function App(){
   const [users, setUsers] = useState([
     { name: "Ed", message: "Hello there"},
-    { name: "Voy", message: "I love Marina"},
+    { name: "Voy", message: "Marinamevoy"},
     { name: "Dhanish", message: "BuildUp Devs"}
   ]);
   
